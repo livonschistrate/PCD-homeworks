@@ -1,0 +1,15 @@
+Concurrency is a technique of programming that allows multiple tasks to be performed simultaneously. 
+It enables processes to overlap in time, allowing faster completion time and increased efficiency. 
+It is often used to take advantage of multi-core processors or to speed up long-running tasks, such as data streaming. 
+Concurrent programming makes use of threads, semaphores, and locks to coordinate shared resources and ensure the correct execution of processes.
+
+Distributed computing is a type of computing in which resources, such as data and applications, are shared by multiple computers connected through a network. 
+This allows for improved data processing speed, scalability and availability, as well as redundancy. 
+It can also be used to store data and run applications on a larger scale than a single machine can handle.
+
+Problem solving and programming go hand in hand. 
+In problem solving, a person or program defines the problem, analyzes what the problem entails, creates a strategy to solve it, implements the strategy, and verifies if the solution meets the desired goal. 
+Programming is the process of writing code to solve the problem. 
+When programming, a person or program breaks down the task into smaller steps and then expresses those steps in a programming language. 
+Both problem solving and programming require an understanding of the application domain, necessary logic, and the language used.
+
