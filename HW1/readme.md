@@ -19,7 +19,7 @@ Like the protocol option, the stop-and-wait procedure (SAW in short) can be enab
 I've tested these mechanisms using three files, along with various chunk sizes introduced on the command line on the local machine (and also using the virtual one)
 and extracted the results below. We can observe that the UDP server's time transmission is shorter than the TCP one when there are large amounts of content.
 
-![Results of testing three files and using various chunk sizes](/files/stats.png)
+![Results of testing three files and using various chunk sizes](https://github.com/livonschistrate/PCD-homeworks/blob/main/HW1/files/stats.png)
 
 
 ## Sources
